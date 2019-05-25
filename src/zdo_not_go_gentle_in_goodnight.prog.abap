@@ -30,4 +30,8 @@ write:
 / 'E de longe, meu pai, peço-te que nessa altura sombria',
 / 'venhas beijar ou amaldiçoar-me com as tuas cruéis lágrimas.',
 / 'Não entres docilmente nessa noite serena.',
-/ 'Odeia, odeia a luz que começa a morrer.'.
+/ 'Odeia, odeia a luz que começa a morrer.',
+/ .
+
+WRITE: / 'Uso na cultura popular:',
+       / '- Filme interestelar -  2014;'.
