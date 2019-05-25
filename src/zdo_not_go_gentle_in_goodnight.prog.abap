@@ -6,7 +6,7 @@
 REPORT ZDO_NOT_GO_GENTLE_IN_GOODNIGHT.
 
 write:
-/ 'Dylan Thomas',
+/ 'Dylan Thomas - 1952',
 / 'Não entres docilmente nessa noite serena,',
 / 'porque a velhice deveria arder e delirar no termo do dia;',
 / 'odeia, odeia a luz que começa a morrer.',
